@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    display: flex;
+    height: 100vh;
+}
+.main-heading h1{
+    margin-bottom: 20px;
+}
+
+img{
+    width: 200px;
+}
+
+button{
+    display: inline-block;
+    background-color:blue;
+    color: white;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    /* transition: 400ms;
+    text-decoration: none;
+    z-index: 10000;
+ */
+}
